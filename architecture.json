@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-italian-documentary-past-future",
+  "title": "The Patient Silence of Stone",
+  "tagline": "A Renaissance sculptor must decipher a mysterious commission that threatens to unravel the future by demanding he confront the buried truths of the past.",
+  "target_words": 75580,
+  "actual_words": 75580,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistry and Mediocrity",
+    "The Weight of Legacy",
+    "Unearthing Buried Truths",
+    "The Tension Between Past and Progress"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone That Drinks Sound",
+      "words": 6870
+    },
+    {
+      "ch": 2,
+      "title": "A Carriage Without Crests",
+      "words": 6870
+    },
+    {
+      "ch": 3,
+      "title": "The Sanctuary of Known Things",
+      "words": 6870
+    },
+    {
+      "ch": 4,
+      "title": "The Gash in the Mountain's Flank",
+      "words": 6870
+    },
+    {
+      "ch": 5,
+      "title": "A Hum in the Marrow",
+      "words": 6870
+    },
+    {
+      "ch": 6,
+      "title": "The Borrowed Silence",
+      "words": 6870
+    },
+    {
+      "ch": 7,
+      "title": "Walking in the Scar",
+      "words": 6870
+    },
+    {
+      "ch": 8,
+      "title": "The Valley That Drinks Light",
+      "words": 6870
+    },
+    {
+      "ch": 9,
+      "title": "Dust With a Memory",
+      "words": 6870
+    },
+    {
+      "ch": 10,
+      "title": "The Patient Silence",
+      "words": 6870
+    },
+    {
+      "ch": 11,
+      "title": "The Fine, White Witness",
+      "words": 6870
+    }
+  ]
+}
